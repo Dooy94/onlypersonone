@@ -1,8 +1,8 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2022-07-25 10:25:40
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: 혼자인 나, 혼자인 우리.  존중받아 마땅하다.
+subtitle: '당신은 지금부터 그냥 혼자가 아닙니다.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -10,10 +10,10 @@ image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+category: 길안내
 tags:
   - welcome
-  - blog
+  - 길안내
 author: thiagorossener
 paginate: true
 ---
